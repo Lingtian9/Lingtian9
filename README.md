@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on [I didnt understand what this sentense means, my english isnt good]
-- 📫 How to reach me ?
+- 📫 How to reach me ?  email  lingtian9_@outlook.com
 -    Uh...I dont know what to write whatthing.
 <!---
 Lingtian9/Lingtian9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
